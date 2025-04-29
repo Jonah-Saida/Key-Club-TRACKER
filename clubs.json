@@ -1,0 +1,22 @@
+
+{
+
+    "clubs": {
+      "1": {
+        "name": "Chatsworth Key Club",
+        "division": "16 West",
+        "serviceHours": 250,
+        "meetingsHeld": 4,
+        "members": 60
+      },
+      "2": {
+        "name": "El Camino Real Key Club",
+        "division": "16 West",
+        "serviceHours": 300,
+        "meetingsHeld": 3,
+        "members": 75
+      }
+    }
+  }
+  
+  
